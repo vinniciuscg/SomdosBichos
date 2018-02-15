@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Som dos Bichos</string>
+    <string name="descritorLogo">Som dos Bichos</string>
+    <string name="imgCachorro">Cachorro</string>
+    <string name="imgGato">Gato</string>
+    <string name="imgLeao">Leão</string>
+    <string name="imgMacaco">Macaco</string>
+    <string name="imgOvelha">Ovelha</string>
+    <string name="imgVaca">Vaca</string>
+</resources>
